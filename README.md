@@ -1,2 +1,3 @@
-# python-code
-รวมโค้ดภาษาไพธอน
+# PYTHON 
+
+- Numpy คือ library 
